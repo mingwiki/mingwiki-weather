@@ -1,6 +1,6 @@
 {
   "name": "mingwiki-weather",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "天气模块",
   "main": "index.js",
   "scripts": {
