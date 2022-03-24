@@ -1,0 +1,17 @@
+{
+  "name": "mingwiki-weather",
+  "version": "1.1.1",
+  "description": "天气模块",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "mingwiki",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
